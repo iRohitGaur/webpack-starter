@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Webpack starter kit",
   "private": true,
+  "homepage": "https://irohitgaur.github.io/webpack-starter",
   "main": "index.js",
   "scripts": {
     "dev": "webpack serve",
